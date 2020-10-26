@@ -15,7 +15,7 @@ train and evaluation scripts for RAG[^1]
 # Instalation
 python 3.6
 ```
-git clone https://github.com/NeverendingNotification/pytorch-xai-analyze.git
+git clone https://github.com/NeverendingNotification/rag-japanese.git
 cd pytorch-xai-analyze
 pip install -r requirements.txt
 ```
